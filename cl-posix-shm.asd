@@ -5,6 +5,7 @@
   :author "Your Name <your.name@example.com>"
   :license "Specify license here"
   :serial t
+  :depends-on (:cffi)
   :components ((:file "package")
                (:file "cl-posix-shm")))
 
