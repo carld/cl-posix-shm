@@ -6,5 +6,5 @@
     :shm-open
     :shm-unlink
     :mmap
-    :munmap)
+    :munmap))
 
