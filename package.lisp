@@ -6,5 +6,12 @@
     :shm-open
     :shm-unlink
     :mmap
-    :munmap))
+    :munmap
+    :O_RDWR
+    :S_IRUSR
+    :S_IWUSR
+    :MAP_SHARED
+    :PROT_WRITE
+    :PROT_READ
+    ))
 
